@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="agent:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/agent_jar</output-path>
+    <root id="archive" name="task7.jar">
+      <element id="module-output" name="task7" />
+      <element id="extracted-dir" path="$USER_HOME$/Загрузки/javassist-3.2.12.1.GA.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
